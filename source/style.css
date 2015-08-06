@@ -1,0 +1,9 @@
+.container { min-width: 1140px; max-width: 1140px; padding-left: 30px; padding-right: 30px; }
+
+body { padding-bottom: 70px; padding-top: 70px; }
+
+div#home { padding-top: 20px; }
+div#home .jumbotron h1 { font-size: 34px; }
+
+h1 { font-size: 28px; }
+h2 { font-size: 22px; }

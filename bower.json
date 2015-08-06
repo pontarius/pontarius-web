@@ -1,0 +1,19 @@
+{
+    "dependencies": {
+        "angular": "1.x",
+        "angular-bootstrap": "*",
+        "angular-ui-router": "*",
+        "bootstrap-css-only": "*"
+    },
+    "ignore": [
+        "node_modules/",
+        "bower_components/"
+    ],
+    "main": "Gruntfile.js",
+    "moduleType": [
+        "globals"
+    ],
+    "name": "pontarius-web",
+    "private": true,
+    "version": "0.0.0.0"
+}
